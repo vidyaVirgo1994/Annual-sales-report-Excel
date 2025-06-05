@@ -25,4 +25,5 @@ Online store wants to create an annual sales report for 2022 . So that , the tea
 ## Final conclusion to improve online store sales :
   * Target women customers of age group (30-49 yrs) living in Maharastra ,Karnataka and Uttar Pradesh by showing ads/offers/coupons avaliable on Amazon,Flipkart & Myntra.
 
-    https://github.com/vidyaVirgo1994/Annual-sales-report-Excel/blob/main/Annual%20Sales%20report%20dashboard%20snapshoot.JPG
+## 4.	Screenshots / Demos
+ ![Dashboard Preview] https://github.com/vidyaVirgo1994/Annual-sales-report-Excel/blob/main/Annual%20Sales%20report%20dashboard%20snapshoot.JPG

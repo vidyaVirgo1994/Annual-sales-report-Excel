@@ -1,3 +1,14 @@
+# Retail Sales Analysis SQL Project
+
+## Project Overview
+
+**Project Title**: Retail Sales Analysis  
+**Database**: `sql_p1`
+
+## Project Structure
+
+### 1. Database Setup
+
 Objective
 Online store wants to create an annual sales report for 2022 . So that , the team can understand their customers and grow more sales in the next year.
 
